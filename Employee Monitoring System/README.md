@@ -1,28 +1,27 @@
-# Payroll-Management-System
+# Employee-Monitoring-System
 
-A simple Payroll Management System where you can 
+A comprehensive Employee Monitoring System designed to manage employee records and monitor contract statuses with the following features:
 
-Add
-Update
-Delete
-Search 
+User Authentication
+-
 
-Employees from the System
+-Login: Secure login for authorized access.
 
-Add
-Update
-Delete 
+Employee Management
+The system allows you to:
+-
 
-Salary details
+-Enter New Employee: Add new employees to the system.
 
-Add
-Update
-Delete 
+-Update Employee: Modify existing employee details.
 
-Leave details 
+-Delete Employee: Remove employees from the system.
 
-Generate and Print Pay Slips
+-Search Employee: Search for employees within the system.
 
-Database file is also included
+Contract Monitoring
+-
 
-GUI is done using Java Swing Framework
+-Contract Notifications: The main purpose of the system is to monitor employee contracts and notify you when a contract is nearing its end.
+
+-Search by Month: Search employee contracts by month to manage upcoming contract renewals effectively.
